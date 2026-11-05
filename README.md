@@ -15,17 +15,7 @@
 <img src="assets/section-stack.svg" width="100%" alt="Tech stack"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-120b2e?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-120b2e?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Godot-2b1655?style=for-the-badge&logo=godotengine&logoColor=7ff0e0"/>
-  <img src="https://img.shields.io/badge/C%23-6b2a72?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-6b2a72?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDScript-2b1655?style=for-the-badge&logo=godotengine&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/AR_Foundation-d8567a?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PlayFab-d8567a?style=for-the-badge&logo=playfab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-6b2a72?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-2b1655?style=for-the-badge&logo=git&logoColor=ffd27a"/>
+  <img src="assets/stack.svg" width="100%" alt="Unity · Unreal Engine 5 · Godot · C# · C++ · GDScript · AR Foundation · PlayFab · ASP.NET · Git"/>
 </p>
 
 <img src="assets/section-games.svg" width="100%" alt="Games"/>
