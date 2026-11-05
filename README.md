@@ -6,8 +6,9 @@
 
 ```txt
 > class      : Game Developer
-> engines    : Unity · Unreal Engine 5 · Godot
-> languages  : C# · C++ · GDScript
+> main       : Unity · C#
+> certified  : Godot Engine · GDScript
+> learning   : Unreal Engine · C++
 > also into  : AR games · multiplayer · mobile
 > quest log  : shipping The Mad Clockmaker & Arcade Idle
 ```
@@ -15,7 +16,7 @@
 <img src="assets/section-stack.svg" width="100%" alt="Tech stack"/>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Unity · Unreal Engine 5 · Godot · C# · C++ · GDScript · AR Foundation · PlayFab · ASP.NET · Git"/>
+  <img src="assets/stack.svg" width="100%" alt="Unity (main) · C# · Godot (certified) · GDScript · AR Foundation · PlayFab · ASP.NET · Git · Unreal Engine & C++ (learning)"/>
 </p>
 
 <img src="assets/section-games.svg" width="100%" alt="Games"/>
