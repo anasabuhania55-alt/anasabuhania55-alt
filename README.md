@@ -19,6 +19,12 @@
   <img src="assets/stack.svg" width="100%" alt="Unity (main) · C# · Godot (certified) · GDScript · AR Foundation · PlayFab · ASP.NET · Git · Unreal Engine & C++ (learning)"/>
 </p>
 
+<img src="assets/section-achievements.svg" width="100%" alt="Achievements"/>
+
+<p align="center">
+  <a href="assets/godot-certificate.jpg"><img src="assets/card-godot-cert.svg" width="100%" alt="Achievement unlocked: Core: Godot — Certificate of Completion, Endless Access (Endless Foundation), Oct 2025"/></a>
+</p>
+
 <img src="assets/section-games.svg" width="100%" alt="Games"/>
 
 <p align="center">
